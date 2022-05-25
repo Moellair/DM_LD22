@@ -27,6 +27,6 @@
     <Waypoint name="148Landau" id="0" comment="" altitude="161.0">
       <Location longitude="8.1347167" latitude="49.1752833"/>
     </Waypoint>
-    <ObservationZone type="Line" length="1000.0"/>
+    <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
 </Task>
