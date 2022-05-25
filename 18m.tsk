@@ -23,17 +23,11 @@
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="148Landau" id="0" comment="" altitude="161.0">
-      <Location longitude="8.1347167" latitude="49.1752833"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
   <Point type="Finish">
     <Waypoint name="148Landau" id="0" comment="" altitude="161.0">
       <Location longitude="8.1347167" latitude="49.1752833"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" length="3000.0"/>
+    <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
 </Task>
 
