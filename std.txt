@@ -1,14 +1,21 @@
 ID,CALL,CN,TYPE,NAME
-06DD8940,D-4034,KY,Discus 2,Sabine Dieulin
-06DF1273,D-KLWH,PB,LS-8 st,Patrick Benoist
-053EE482,D-1003,VZ,LS-8,Karen Wilken
-06DDB118,D-9212,V7,Discus 2, Christine Grote
-06DD82D5,D-KEGY,OLC,Discus 2cT,Max Maslak
-06D00565,D-7101,NW2,Discus 2,Marius Stelzer
-06DF13DC,D-8111,HZ,Discus 2,Sabrina Vogt
-06DD8204,D5917,E1,ASW-28,Lukas Luksch
-06DDEC1F,D-2209,X9,LS-8,Lena Kittler
-06DF0470,D-5480,BW2,Discus 2,Jens Kammerer
+053EFC17,D-7040,2B,Discus2b,Jakob Edmaier
+053EED35,D-3230,30,Discus2b,Nick Schäfer
+06DF08AA,D-6117,3S,LS8,Corneila Schaich
 06D004CA,NO,71,LS-8,Ilka Elster-Back
-06DDA7A2,D-8890,I7,Discus,Ute Baranowski
+06DD96A8,D-8588,ALI,LS8,Daniel Haefele
 06DDA6E4,D-1507,BB,LS-8a,Lenja Goll
+06DF0470,D-5480,BW2,Discus 2,Jens Kammerer
+06DDEBB5,D-2838,CY,ASW28,David Techmer
+06DD8204,D5917,E1,ASW-28,Lukas Luksch
+06DF13DC,D-8111,HZ,Discus 2,Sabrina Vogt
+06DDA7A2,D-8890,I7,Discus,Ute Baranowski
+06DD8940,D-4034,KY,Discus 2,Sabine Dieulin
+06D00565,D-7101,NW2,Discus 2,Marius Stelzer
+06DD82D5,D-KEGY,OLC,Discus 2cT,Max Maslak
+06DF1273,D-KLWH,PB,LS-8 st,Patrick Benoist
+06DF100A,D-4156,RP2,LS8,Laura Nikolay
+06DDB118,D-9212,V7,Discus 2, Christine Grote
+053EE482,D-1003,VZ,LS-8,Karen Wilken
+06DDEC1F,D-2209,X9,LS-8,Lena Kittler
+06DDED17,D-5664,ZL,LS8,Nadine Schommartz
