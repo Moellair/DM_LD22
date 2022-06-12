@@ -1,0 +1,26 @@
+ID,CALL,CN,TYPE,NAME
+06DF0E66,,44,Christoph Nacke
+06DF0FD0,,47,Hanns-Günther Bauer
+06D0048E,,VY,Andreas Kühl
+06D006DB,,SP,Claus Triebel
+06DDEDAE,,PI,Andreas Görmer
+06DF10E4,,?,
+06DD9CF0,,1G,Henrik Bieler
+053ED053,,3V,Tilo Holighaus
+06D00FAF,,4Z,Stefan Lichtmannecker
+053EC0F0,,AI,Burkhard Müller
+06DDF0EE,,AX,Georg Theisinger
+06D00420,,BK,Katrin Senne
+06D0050F,,CT,Klaus Kalmbach
+06DF0EDA,,DS,David Bauder
+06DD99A0,,ES,Jan Umlauf
+06DDEE34,,FE,Jan-Frederic Müller
+053F01CD,,GI,Marc Schick
+06D006C9,,HL,Hermann Leucker
+06DDEDA3,,JH,Jonas Florin
+06D0138F,,OS,Oliver Springer
+06D00514,,S,Michael Pfennig
+053EEB98,,SN,Uwe Wahlig
+06DDF16B,,T,Laurenz Theisinger
+053E6B87,,XM,Steffen Schwarzer
+0539644C,,LV,Wolfgang Gmeiner
