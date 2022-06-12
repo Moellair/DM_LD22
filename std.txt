@@ -1,21 +1,31 @@
 ID,CALL,CN,TYPE,NAME
-053EFC17,D-7040,2B,Discus2b,Jakob Edmaier
-053EED35,D-3230,30,Discus2b,Nick Schäfer
-06DF08AA,D-6117,3S,LS8,Corneila Schaich
-06D004CA,NO,71,LS-8,Ilka Elster-Back
-06DD96A8,D-8588,ALI,LS8,Daniel Haefele
-06DDA6E4,D-1507,BB,LS-8a,Lenja Goll
-06DF0470,D-5480,BW2,Discus 2,Jens Kammerer
-06DDEBB5,D-2838,CY,ASW28,David Techmer
-06DD8204,D5917,E1,ASW-28,Lukas Luksch
-06DF13DC,D-8111,HZ,Discus 2,Sabrina Vogt
-06DDA7A2,D-8890,I7,Discus,Ute Baranowski
-06DD8940,D-4034,KY,Discus 2,Sabine Dieulin
-06D00565,D-7101,NW2,Discus 2,Marius Stelzer
-06DD82D5,D-KEGY,OLC,Discus 2cT,Max Maslak
-06DF1273,D-KLWH,PB,LS-8 st,Patrick Benoist
-06DF100A,D-4156,RP2,LS8,Laura Nikolay
-06DDB118,D-9212,V7,Discus 2, Christine Grote
-053EE482,D-1003,VZ,LS-8,Karen Wilken
-06DDEC1F,D-2209,X9,LS-8,Lena Kittler
-06DDED17,D-5664,ZL,LS8,Nadine Schommartz
+06D001B7,,59,LS8a,Rolf Engelhardt
+053EEEAC,,70,LS8,Arne Thielemann
+06DD9E87,,88,,LS8,Chris Hiller
+06DF08B4,,8A,LS8-neo,Christoph Barniske
+06DD9D03,,AL,LS8a,MAnfred Streicher
+06DD8750,,AR,LS8, Björn Ginzel
+06DF0470,,BW2,Discus2b,Philipp Schulz
+06DF10BC,,CL,Discus2a,Christian Lampert
+06D01C32,,CX,Discus2b,Karsten Leucker
+06DF20A3,,EE,Discus2b,Nils Deimel
+06DF1634,,EL,Discus2b,Sören Nölke
+053E7972,,EO,Ls8,Jan Hertrich
+06DF17A7,,FJ,Ls8,Nuno Ferreira
+06DF13DC,,HZ,Discus 2a,Sabrina Vogt
+06DF163E,,MP,Discus 2b,Jürgen Schönerstedt
+06DD9145,,NF,LS8a,Hans Buhlmann
+06DF12C4,,NK,Discus 2a,Christian Barton
+06DF1511,,Ok,LS8neo,Jan Knischewski
+06D0047C,,OLC,LS8,Johannes Beyer
+06DF1097,,PJ,Discus2T,Philipp Söll
+053EF92D,,RA,Discus 2a,Robin Sittmann
+06DF100A,,RP2,LS8neo,Mika Zeyen
+06DD99AF,,S8,Discus 2a,Simon Briel
+06DF14D1,,TM,Discus2T,Thomas Krausert
+06DDB118,,V7,Discus2a,Christine Grote
+06D00CFE,,XN,Discus2a,Sebastian Nägel
+058FFF2F,,XO,LS8neo,Alexander Scheuble
+06D00D70,,Y4,Discus2a,michael Buchthal
+06DDF12A,,YL,LS8,Raphael Twardowski
+06DDE40B,,ZT,Discus2T,Benedikt Lang
