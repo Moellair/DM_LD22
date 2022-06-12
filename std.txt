@@ -1,7 +1,7 @@
 ID,CALL,CN,TYPE,NAME
 06D001B7,,59,LS8a,Rolf Engelhardt
 053EEEAC,,70,LS8,Arne Thielemann
-06DD9E87,,88,,LS8,Chris Hiller
+06DD9E87,,88,LS8,Chris Hiller
 06DF08B4,,8A,LS8-neo,Christoph Barniske
 06DD9D03,,AL,LS8a,MAnfred Streicher
 06DD8750,,AR,LS8, Björn Ginzel
