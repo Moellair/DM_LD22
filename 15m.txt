@@ -9,6 +9,7 @@ ID,CALL,CN,TYPE,NAME
 053ED053,,3V,Ventus3T,Tilo Holighaus
 06D00FAF,,4Z,Ventus3T,Stefan Lichtmannecker
 053EC0F0,,AI,JS3,Burkhard Müller
+053E766B,,AT,Ventus3T,Tobias Meiler
 06DDF0EE,,AX,Js3,Georg Theisinger
 06D00420,,BK,Js3,Katrin Senne
 06D0050F,,CT,JS3,Klaus Kalmbach
