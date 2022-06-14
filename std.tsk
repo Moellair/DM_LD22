@@ -1,31 +1,19 @@
 <Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="10800" type="RT">
 	<Point type="Start">
-		<Waypoint altitude="477" comment="" id="6" name="006AP Zwickau West A72 BAB010">
-			<Location latitude="50.6383" longitude="12.44"/>
+		<Waypoint altitude="393" comment="" id="7" name="007AP Zwickau Ost A72 BAB011">
+			<Location latitude="50.6825" longitude="12.5867"/>
 		</Waypoint>
 		<ObservationZone length="20000" type="Line"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="400" comment="" id="144" name="145Suhl Bf">
-			<Location latitude="50.605" longitude="10.6825"/>
+		<Waypoint altitude="350" comment="" id="63" name="063Herrnhut Bf">
+			<Location latitude="51.0208" longitude="14.7367"/>
 		</Waypoint>
 		<ObservationZone type="Keyhole"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="516" comment="" id="157" name="158Waidhaus Bf">
-			<Location latitude="49.6392" longitude="12.4958"/>
-		</Waypoint>
-		<ObservationZone type="Keyhole"/>
-	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="457" comment="" id="126" name="127Schirnding Bf">
-			<Location latitude="50.0767" longitude="12.2292"/>
-		</Waypoint>
-		<ObservationZone type="Keyhole"/>
-	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="393" comment="" id="7" name="007AP Zwickau Ost A72 BAB011">
-			<Location latitude="50.6825" longitude="12.5867"/>
+		<Waypoint altitude="451" comment="" id="9" name="009Adorf">
+			<Location latitude="50.3217" longitude="12.2575"/>
 		</Waypoint>
 		<ObservationZone type="Keyhole"/>
 	</Point>
