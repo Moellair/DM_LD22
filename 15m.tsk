@@ -6,26 +6,20 @@
 		<ObservationZone length="20000" type="Line"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="404" comment="" id="82" name="082Kronach Fischbach">
-			<Location latitude="50.2178" longitude="11.3795"/>
+		<Waypoint altitude="120" comment="" id="163" name="164Welzow Windkraft">
+			<Location latitude="51.6233" longitude="14.1258"/>
 		</Waypoint>
 		<ObservationZone type="Keyhole"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="512" comment="" id="158" name="159Waldmuenchen Bf">
-			<Location latitude="49.3775" longitude="12.6983"/>
+		<Waypoint altitude="262" comment="" id="84" name="084Löbau">
+			<Location latitude="51.0958" longitude="14.6675"/>
 		</Waypoint>
 		<ObservationZone type="Keyhole"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="451" comment="" id="9" name="009Adorf">
-			<Location latitude="50.3217" longitude="12.2575"/>
-		</Waypoint>
-		<ObservationZone type="Keyhole"/>
-	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="745" comment="" id="49" name="049Geyer TV">
-			<Location latitude="50.6225" longitude="12.87"/>
+		<Waypoint altitude="475" comment="" id="122" name="123Rodewisch Bf">
+			<Location latitude="50.5283" longitude="12.395"/>
 		</Waypoint>
 		<ObservationZone type="Keyhole"/>
 	</Point>
