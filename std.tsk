@@ -1,26 +1,27 @@
-<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="10800" type="RT">
-	<Point type="Start">
-		<Waypoint altitude="393" comment="" id="7" name="007AP Zwickau Ost A72 BAB011">
-			<Location latitude="50.6825" longitude="12.5867"/>
-		</Waypoint>
-		<ObservationZone length="20000" type="Line"/>
-	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="350" comment="" id="63" name="063Herrnhut Bf">
-			<Location latitude="51.0208" longitude="14.7367"/>
-		</Waypoint>
-		<ObservationZone type="Keyhole"/>
-	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="451" comment="" id="9" name="009Adorf">
-			<Location latitude="50.3217" longitude="12.2575"/>
-		</Waypoint>
-		<ObservationZone type="Keyhole"/>
-	</Point>
-	<Point type="Finish">
-		<Waypoint altitude="310" comment="" id="1" name="001Zwickau FP EDBI">
-			<Location latitude="50.7033" longitude="12.4592"/>
-		</Waypoint>
-		<ObservationZone radius="5000" type="Cylinder"/>
-	</Point>
+<Task type="AAT" task_scored="0" aat_min_time="180" start_max_speed="170" start_max_height="1700" start_max_height_ref="MSL" finish_min_height="560" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="006AP Zwickau West A72 BAB010" id="0" comment="" altitude="477.0">
+      <Location longitude="12.44" latitude="50.6383333"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="041Fichtelsee Mitte" id="0" comment="" altitude="752.0">
+      <Location longitude="11.8591667" latitude="50.0158333"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="25000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="129Schmalkalden Bf" id="0" comment="" altitude="287.0">
+      <Location longitude="10.44" latitude="50.7208333"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="30000.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="001Zwickau FP EDBI" id="0" comment="" altitude="310.0">
+      <Location longitude="12.4591667" latitude="50.7033333"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="5000.0"/>
+  </Point>
 </Task>
+
