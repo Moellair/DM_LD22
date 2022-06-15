@@ -1,32 +1,33 @@
-<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="10800" type="RT">
-	<Point type="Start">
-		<Waypoint altitude="330" comment="" id="3" name="003AP Schlammteich">
-			<Location latitude="50.7567" longitude="12.4492"/>
-		</Waypoint>
-		<ObservationZone length="20000" type="Line"/>
-	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="120" comment="" id="163" name="164Welzow Windkraft">
-			<Location latitude="51.6233" longitude="14.1258"/>
-		</Waypoint>
-		<ObservationZone type="Keyhole"/>
-	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="262" comment="" id="84" name="084Löbau">
-			<Location latitude="51.0958" longitude="14.6675"/>
-		</Waypoint>
-		<ObservationZone type="Keyhole"/>
-	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="475" comment="" id="122" name="123Rodewisch Bf">
-			<Location latitude="50.5283" longitude="12.395"/>
-		</Waypoint>
-		<ObservationZone type="Keyhole"/>
-	</Point>
-	<Point type="Finish">
-		<Waypoint altitude="310" comment="" id="1" name="001Zwickau FP EDBI">
-			<Location latitude="50.7033" longitude="12.4592"/>
-		</Waypoint>
-		<ObservationZone radius="5000" type="Cylinder"/>
-	</Point>
+<Task type="AAT" task_scored="0" aat_min_time="180" start_max_speed="60" start_max_height="1700" start_max_height_ref="MSL" finish_min_height="560" finish_min_height_ref="MSL"" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="003AP Schlammteich" id="0" comment="" altitude="330.0">
+      <Location longitude="12.4491667" latitude="50.7566667"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="135Schwarzenb Bf" id="0" comment="" altitude="428.0">
+      <Location longitude="12.7866667" latitude="50.545"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="152Trebgast Badesee" id="0" comment="" altitude="324.0">
+      <Location longitude="11.54" latitude="50.0558333"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="107Oberhof Rennstei" id="0" comment="" altitude="794.0">
+      <Location longitude="10.73" latitude="50.7075"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="25000.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="001Zwickau FP EDBI" id="0" comment="" altitude="310.0">
+      <Location longitude="12.4591667" latitude="50.7033333"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="5000.0"/>
+  </Point>
 </Task>
+
