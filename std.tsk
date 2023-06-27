@@ -1,26 +1,26 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="0" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="005AP Werdau Eisenbahnbruecke" id="0" comment="" altitude="300.0">
-      <Location longitude="12.3733333" latitude="50.7166667"/>
+    <Waypoint name="275_Langosto" id="0" comment="" altitude="1390.0">
+      <Location longitude="-2.605278" latitude="41.916111"/>
     </Waypoint>
-    <ObservationZone type="Line" length="20000.0"/>
+    <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="145Suhl Bf" id="0" comment="" altitude="400.0">
-      <Location longitude="10.6825" latitude="50.605"/>
+    <Waypoint name="009_AD La Salceda" id="0" comment="" altitude="1150.0">
+      <Location longitude="-3.8825" latitude="41.065556"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="500"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="162Weissenstadt Bf" id="0" comment="" altitude="630.0">
-      <Location longitude="11.8891667" latitude="50.1058333"/>
+    <Waypoint name="088_Aranda de Duero" id="0" comment="" altitude="806.0">
+      <Location longitude="-3.685556" latitude="41.670556"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="500"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="001Zwickau FP EDBI" id="0" comment="" altitude="310.0">
-      <Location longitude="12.4591667" latitude="50.7033333"/>
+    <Waypoint name="001_AD Garray" id="0" comment="" altitude="1036.0">
+      <Location longitude="12.4591667" latitude="-2.476667"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="5000.0"/>
+    <ObservationZone type="Cylinder" radius="4000.0"/>
   </Point>
 </Task>
