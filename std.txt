@@ -1,31 +1,18 @@
 ID,CALL,CN,TYPE,NAME
 06D001B7,,59,LS8a,Rolf Engelhardt
-053EEEAC,,70,LS8,Arne Thielemann
-06DD9E87,,88,LS8,Chris Hiller
-06DF08B4,,8A,LS8-neo,Christoph Barniske
-06DD9D03,,AL,LS8a,MAnfred Streicher
-06DD8750,,AR,LS8, Björn Ginzel
-06DF0470,,BW2,Discus2b,Philipp Schulz
-06DF10BC,,CL,Discus2a,Christian Lampert
-06D01C32,,CX,Discus2b,Karsten Leucker
-06DF20A3,,EE,Discus2b,Nils Deimel
-06DF1634,,EL,Discus2b,Sören Nölke
-053E7972,,EO,Ls8,Jan Hertrich
-06DF17A7,,FJ,Ls8,Nuno Ferreira
-06DF13DC,,HZ,Discus 2a,Sabrina Vogt
-06DF163E,,MP,Discus 2b,Jürgen Schönerstedt
-06DD9145,,NF,LS8a,Hans Buhlmann
-06DF12C4,,NK,Discus 2a,Christian Barton
-06DF1511,,Ok,LS8neo,Jan Knischewski
-06D0047C,,OLC,LS8,Johannes Beyer
-06DF1097,,PJ,Discus2T,Philipp Söll
-053EF92D,,RA,Discus 2a,Robin Sittmann
-06DF100A,,RP2,LS8neo,Mika Zeyen
-06DD99AF,,S8,Discus 2a,Simon Briel
-06DF14D1,,TM,Discus2T,Thomas Krausert
-06DDB118,,V7,Discus2a,Christine Grote
-06D00CFE,,XN,Discus2a,Sebastian Nägel
-058FFF2F,,XO,LS8neo,Alexander Scheuble
-06D00D70,,Y4,Discus2a,michael Buchthal
-06DDF12A,,YL,LS8,Raphael Twardowski
-06DDE40B,,ZT,Discus2T,Benedikt Lang
+06D004CA,,71,Ls 8e Neo,Ilka Elster-Back
+06D00162,,FX,LS 8b,Dana Novakova
+,,JB,LS 8,Barbora Moravcova
+,,3S,LS 8,Cornelia Schaich
+,,I,Discus2a,Joanna Biedermann
+,,131,Discus2a, Francesca Roberts
+053EE482,,VZ,LS 8,Karen Wilken
+06DF13DC,,HZ,Discsu2a,Sabrina Vogt
+06D00160,,W8,LS 8,Jana Treslova
+,,ET,Discus 2a,Anais Gaubert
+,,L2,Discus 2a,Lucia Esteban Loring
+0538B61B,,AX,Discus 2a,Marilyne Abadie-Bérard
+053EEE08,,HT,LS 8,Lizzy van Zomeren
+06D00DC4,,JPA,Discus 2a,Aude Untersee
+,,JG,LS 8,Barbara Kuttel
+054B4F4E,,EB,Discus 2cFES,Delia Flury
