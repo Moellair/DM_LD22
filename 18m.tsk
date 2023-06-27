@@ -1,33 +1,26 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="0" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="0" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="003AP Schlammteich" id="0" comment="" altitude="330.0">
-      <Location longitude="12.4491667" latitude="50.7566667"/>
+    <Waypoint name="275_Langosto" id="0" comment="" altitude="1390.0">
+      <Location longitude="-2.605278" latitude="41.916111"/>
     </Waypoint>
-    <ObservationZone type="Line" length="20000.0"/>
+    <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="133Schoenwald Fabri" id="0" comment="" altitude="612.0">
-      <Location longitude="12.0958333" latitude="50.2033333"/>
+    <Waypoint name="009_AD La Salceda" id="0" comment="" altitude="1150.0">
+      <Location longitude="-3.8825" latitude="41.065556"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="500"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="077Kipsdorf" id="0" comment="" altitude="565.0">
-      <Location longitude="13.675" latitude="50.8033333"/>
+    <Waypoint name="088_Aranda de Duero" id="0" comment="" altitude="806.0">
+      <Location longitude="-3.685556" latitude="41.670556"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="123Rodewisch Bf" id="0" comment="" altitude="475.0">
-      <Location longitude="12.395" latitude="50.5283333"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="500"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="001Zwickau FP EDBI" id="0" comment="" altitude="310.0">
-      <Location longitude="12.4591667" latitude="50.7033333"/>
+    <Waypoint name="001_AD Garray" id="0" comment="" altitude="1036.0">
+      <Location longitude="12.4591667" latitude="-2.476667"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="5000.0"/>
+    <ObservationZone type="Cylinder" radius="4000.0"/>
   </Point>
 </Task>
-
