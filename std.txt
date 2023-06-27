@@ -1,5 +1,4 @@
 ID,CALL,CN,TYPE,NAME
-06D001B7,,59,LS8a,Rolf Engelhardt
 06D004CA,,71,Ls 8e Neo,Ilka Elster-Back
 06D00162,,FX,LS 8b,Dana Novakova
 ,,JB,LS 8,Barbora Moravcova
