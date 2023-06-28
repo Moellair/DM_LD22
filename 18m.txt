@@ -1,27 +1,13 @@
 ID,CALL,CN,TYPE,NAME
-06DF0E66,,44,Ventus 2cxT,Christoph Nacke
-06DF0FD0,,47,Ventus 2a,Hanns-Günther Bauer
-06D0048E,,VY,JS3,Andreas Kühl
-06D006DB,,SP,JS3,Claus Triebel
-06DDEDAE,,PI,LS8neo,Andreas Görmer
-06DF10E4,,?,
-06DD9CF0,,1G,Ventus2b,Henrik Bieler
-053ED053,,3V,Ventus3T,Tilo Holighaus
-06D00FAF,,4Z,Ventus3T,Stefan Lichtmannecker
-053EC0F0,,AI,JS3,Burkhard Müller
-053E766B,,AT,Ventus3T,Tobias Meiler
-06DDF0EE,,AX,Js3,Georg Theisinger
-06D00420,,BK,Js3,Katrin Senne
-06D0050F,,CT,JS3,Klaus Kalmbach
-06DF0EDA,,DS,Ventus 2a,David Bauder
-06DD99A0,,ES,ASG29,Jan Umlauf
-06DDEE34,,FE,ASG29,Jan-Frederic Müller
-053F01CD,,GI,Ventus 2b,Marc Schick
-06D006C9,,HL,JS3,Hermann Leucker
-06DDEDA3,,JH,ASW27,Jonas Florin
-06D0138F,,OS,AS33 ES,Oliver Springer
-06D00514,,S,JS3,Michael Pfennig
-053EEB98,,SN,LS3,Uwe Wahlig
-06DDF16B,,T,JS3,Laurenz Theisinger
-053E6B87,,XM,ASW27,Steffen Schwarzer
-0539644C,,LV,ASG29,Wolfgang Gmeiner
+06DF0DB7,,J3,ASG29 Es,Anja Barfuss
+06D003FF,,ZE,JS3,Alena Netusilova
+06D01447,,EA,AS 33,Michaela Rendlova
+,,0,ASG 29,Liz Sparrow,
+06D00900,,LB,JS3,Mélanie Gadoulet
+06D009DE,,LEO,ASG 29,Sandra Malzacher
+06D01C5A,,XM,JS3,Hana Treslova
+,,MA,Ventus 2cxM,Maria Lisa Martin Perez
+06D00ED0,,FM,JS 3,Astrid Galaret
+,,KW,JS 3,Anne Ducarouge
+,,BK,JS 3,Katrin Senne
+,,J7,JS 3,Ayala Truelove
