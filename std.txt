@@ -8,10 +8,10 @@ ID,CALL,CN,TYPE,NAME
 053EE482,,VZ,LS 8,Karen Wilken
 06DF13DC,,HZ,Discsu2a,Sabrina Vogt
 06D00160,,W8,LS 8,Jana Treslova
-,,ET,Discus 2a,Anais Gaubert
+05395EBB,,ET,Discus 2a,Anais Gaubert
 ,,L2,Discus 2a,Lucia Esteban Loring
 0538B61B,,AX,Discus 2a,Marilyne Abadie-Bérard
 053EEE08,,HT,LS 8,Lizzy van Zomeren
 06D00DC4,,JPA,Discus 2a,Aude Untersee
-,,JG,LS 8,Barbara Kuttel
+054B517F,,JG,LS 8,Barbara Kuttel
 054B4F4E,,EB,Discus 2cFES,Delia Flury
