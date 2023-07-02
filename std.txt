@@ -1,7 +1,7 @@
 ID,CALL,CN,TYPE,NAME
 06D004CA,,71,Ls 8e Neo,Ilka Elster-Back
 06D00162,,FX,LS 8b,Dana Novakova
-,,JB,LS 8,Barbora Moravcova
+06D00102,,JB,LS 8,Barbora Moravcova
 06DF08AA,,3S,LS 8,Cornelia Schaich
 ,,I,Discus2a,Joanna Biedermann
 ,,131,Discus2a, Francesca Roberts
