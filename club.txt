@@ -1,5 +1,4 @@
 ID,CALL,CN,TYPE,HANDICAP,NAME
-06DD5309,D-7608,WU,LS-4,1.04,Erva
 ,,TC,GD300 WL,100,Valéria Caselato
 06D01C39,,CX,ASW 20,100,Petra Piskata
 ,,OLE,Std. Cirrus,100,Sylvia Grandstaff
