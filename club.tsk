@@ -1,27 +1,32 @@
-<Task type="AAT" task_scored="0" aat_min_time="180" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="AAT" task_scored="0" aat_min_time="120" start_max_speed="300" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="044 FrohnmÃ¼hle" id="0" comment="" altitude="114.0">
-      <Location longitude="8.24945" latitude="49.3202833"/>
+    <Waypoint name="054_ZA Pedrajas" id="0" comment="" altitude="1059.0">
+      <Location longitude="-2.580556" latitude="41.818889"/>
     </Waypoint>
-    <ObservationZone type="Line" length="20000.0"/>
+    <ObservationZone type="Line" length="6000.0"/>
   </Point>
   <Point type="Area">
-    <Waypoint name="040 Essweiler" id="0" comment="" altitude="380.0">
-      <Location longitude="7.5783333" latitude="49.56"/>
+    <Waypoint name="181_Ciruelos" id="0" comment="" altitude="1164.0">
+      <Location longitude="-3.703056" latitude="41.439722"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="35000.0"/>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
   </Point>
   <Point type="Area">
-    <Waypoint name="032 Crailsheim" id="0" comment="" altitude="413.0">
-      <Location longitude="10.0638833" latitude="49.13805"/>
+    <Waypoint name="371_Pinilletas" id="0" comment="" altitude="934.0">
+      <Location longitude="-3.619444" latitude="41.873611"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="50000.0"/>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
   </Point>
-  <Point type="Finish">
-    <Waypoint name="001 Lachen-Speyerdorf" id="0" comment="" altitude="118.0">
-      <Location longitude="8.2116667" latitude="49.3302833"/>
+  <Point type="Area">
+    <Waypoint name="052_ZA Herreros" id="0" comment="" altitude="1085.0">
+      <Location longitude="-2.731389" latitude="41.837778"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
+  <Point type="Finish">
+    <Waypoint name="001_AD Garray" id="0" comment="" altitude="1036.0">
+      <Location longitude="-2.476667" latitude="41.821389"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="4000.0"/>
+  </Point>
 </Task>
-
