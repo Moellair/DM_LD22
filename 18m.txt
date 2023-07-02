@@ -9,5 +9,5 @@ ID,CALL,CN,TYPE,NAME
 ,,MA,Ventus 2cxM,Maria Lisa Martin Perez
 06D00ED0,,FM,JS 3,Astrid Galaret
 ,,KW,JS 3,Anne Ducarouge
-,,BK,JS 3,Katrin Senne
+06D00420,,BK,JS 3,Katrin Senne
 ,,J7,JS 3,Ayala Truelove
