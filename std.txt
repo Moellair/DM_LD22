@@ -4,7 +4,7 @@ ID,CALL,CN,TYPE,NAME
 06D00102,,JB,LS 8,Barbora Moravcova
 06DF08AA,,3S,LS 8,Cornelia Schaich
 ,,I,Discus2a,Joanna Biedermann
-,,131,Discus2a, Francesca Roberts
+05192400,,131,Discus2a, Francesca Roberts
 053EE482,,VZ,LS 8,Karen Wilken
 06DF13DC,,HZ,Discsu2a,Sabrina Vogt
 06D00160,,W8,LS 8,Jana Treslova
