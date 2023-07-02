@@ -16,5 +16,5 @@ ID,CALL,CN,TYPE,HANDICAP,NAME
 06D01971,,AG,LS 7,100,Aude Grangeray
 06D012D5,,HG,LS 7,100,Louise Rodriguez
 06DF1886,,FOX,LS7 WL,100,Daniela Wilden
-,,L,DG 100,100,Olena Yakymchuk
+06DDA681,,L,DG 100,100,Olena Yakymchuk
 06DD9BE5,,SH,Ls 1-f,100,Christina Solberg Hansen
