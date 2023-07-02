@@ -6,7 +6,7 @@ ID,CALL,CN,TYPE,NAME
 06D00900,,LB,JS3,Mélanie Gadoulet
 06D009DE,,LEO,ASG 29,Sandra Malzacher
 06D01C5A,,XM,JS3,Hana Treslova
-,,MA,Ventus 2cxM,Maria Lisa Martin Perez
+06DDAD0D,,MA,Ventus 2cxM,Maria Lisa Martin Perez
 06D00ED0,,FM,JS 3,Astrid Galaret
 ,,KW,JS 3,Anne Ducarouge
 06D00420,,BK,JS 3,Katrin Senne
