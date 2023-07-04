@@ -8,7 +8,7 @@ ID,CALL,CN,TYPE,HANDICAP,NAME
 06D014D4,,CH,Ls 1-f neo,100,Claudia Hill
 06D02616,,40,Discus a,100,Elena Fergnani
 06D02687,,99,Ls 4,100,Ulrike Teichmann
-06DDAFA5,,PG,LS 7,Carolin Rothhardt
+06DDAFA5,,PG,LS 7,100,Carolin Rothhardt
 05395EBB,,ET,ASW 20,100,Kathy Fosha
 05405459,,LS4,LS 4,100,Mulder Alison
 06D00158,,IX,LS 4,100,Tereza Koubkova
