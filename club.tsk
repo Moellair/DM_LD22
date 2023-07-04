@@ -17,7 +17,6 @@
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500"/>
   </Point>
-  </Point>
   <Point type="Turn">
     <Waypoint name="072_Alcubilla" id="0" comment="" altitude="938.0">
       <Location longitude="-3.305278" latitude="41.726111"/>
