@@ -1,27 +1,27 @@
-<Task type="AAT" task_scored="0" aat_min_time="135" start_max_speed="300" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="0" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="229_Fuentetoba" id="0" comment="" altitude="1092.0">
-      <Location longitude="-2.560278" latitude="41.776111"/>
+    <Waypoint name="390_Renieblas" id="0" comment="" altitude="1038.0">
+      <Location longitude="-2.372222" latitude="41.82"/>
     </Waypoint>
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="206_El Olmo" id="0" comment="" altitude="956.0">
-      <Location longitude="-3.662222" latitude="41.3025"/>
+  <Point type="Turn">
+    <Waypoint name="309_Molina" id="0" comment="" altitude="1094.0">
+      <Location longitude="-1.885" latitude="40.845556"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="20000.0"/>
+    <ObservationZone type="Cylinder" radius="500"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="243_Gumiel de Izan" id="0" comment="" altitude="864.0">
-      <Location longitude="-3.687778" latitude="41.771111"/>
+  <Point type="Turn">
+    <Waypoint name="056_ZA Salas" id="0" comment="" altitude="967.0">
+      <Location longitude="-3.270556" latitude="42.010833"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="25000.0"/>
+    <ObservationZone type="Cylinder" radius="500"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="052_ZA Herreros" id="0" comment="" altitude="1085.0">
-      <Location longitude="-2.731389" latitude="41.837778"/>
+  <Point type="Turn">
+    <Waypoint name="072_Alcubilla" id="0" comment="" altitude="938.0">
+      <Location longitude="-3.305278" latitude="41.726111"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="3000.0"/>
+    <ObservationZone type="Cylinder" radius="500"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="001_AD Garray" id="0" comment="" altitude="1036.0">
