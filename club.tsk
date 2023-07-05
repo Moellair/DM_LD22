@@ -7,7 +7,7 @@
   </Point>
   <Point type="Area">
     <Waypoint name="206_El Olmo" id="0" comment="" altitude="956.0">
-      <Location longitude="3.662222" latitude="41.3025"/>
+      <Location longitude="-3.662222" latitude="41.3025"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="25000.0"/>
   </Point>
