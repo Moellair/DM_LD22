@@ -1,28 +1,23 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="0" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="AAT" task_scored="0" aat_min_time="105" start_max_speed="300" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="054_ZA Pedrajas" id="0" comment="" altitude="1059.0">
-      <Location longitude="-2.580556" latitude="41.818889"/>
+    <Waypoint name=176_Chaparros" id="0" comment="" altitude="1270.0">
+      <Location longitude="-2.500833" latitude="41.878056"/>
     </Waypoint>
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="468_Villel" id="0" comment="" altitude="1079.0">
-      <Location longitude="-2.149444" latitude="41.151944"/>
+  <Point type="Area">
+    <Waypoint name="206_El Olmo" id="0" comment="" altitude="956.0">
+      <Location longitude="3.662222" latitude="41.3025"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
+    <ObservationZone type="Cylinder" radius="25000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="290_Mamolar" id="0" comment="" altitude="1106.0">
-      <Location longitude="-3.361667" latitude="41.927222"/>
+  <Point type="Area">
+    <Waypoint name="028_FOR Covaleda" id="0" comment="" altitude="1190.0">
+      <Location longitude="-2.949167" latitude="41.861944"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
+    <ObservationZone type="Cylinder" radius="2000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="072_Alcubilla" id="0" comment="" altitude="938.0">
-      <Location longitude="-3.305278" latitude="41.726111"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
-  </Point>
+  <Point type="Area">
   <Point type="Finish">
     <Waypoint name="001_AD Garray" id="0" comment="" altitude="1036.0">
       <Location longitude="-2.476667" latitude="41.821389"/>
