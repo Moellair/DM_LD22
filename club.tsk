@@ -1,6 +1,6 @@
 <Task type="AAT" task_scored="0" aat_min_time="105" start_max_speed="300" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name=176_Chaparros" id="0" comment="" altitude="1270.0">
+    <Waypoint name="176_Chaparros" id="0" comment="" altitude="1270.0">
       <Location longitude="-2.500833" latitude="41.878056"/>
     </Waypoint>
     <ObservationZone type="Line" length="10000.0"/>
