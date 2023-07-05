@@ -1,6 +1,6 @@
 <Task type="AAT" task_scored="0" aat_min_time="135" start_max_speed="300" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name=054_ZA Pedrajas" id="0" comment="" altitude="1059.0">
+    <Waypoint name="054_ZA Pedrajas" id="0" comment="" altitude="1059.0">
       <Location longitude="-2.580556" latitude="41.818889"/>
     </Waypoint>
     <ObservationZone type="Line" length="10000.0"/>
