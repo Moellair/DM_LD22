@@ -15,7 +15,7 @@
     <Waypoint name="028_FOR Covaleda" id="0" comment="" altitude="1190.0">
       <Location longitude="-2.949167" latitude="41.861944"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="2000.0"/>
+    <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
   <Point type="Area">
   <Point type="Finish">
