@@ -17,7 +17,6 @@
     </Waypoint>
     <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
-  <Point type="Area">
   <Point type="Finish">
     <Waypoint name="001_AD Garray" id="0" comment="" altitude="1036.0">
       <Location longitude="-2.476667" latitude="41.821389"/>
