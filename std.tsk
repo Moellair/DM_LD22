@@ -6,8 +6,8 @@
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Area">
-    <Waypoint name="009_AD La Salceda" id="0" comment="" altitude="1150.0">
-      <Location longitude="-3.8825" latitude="41.065556"/>
+    <Waypoint name="018_AD Santo Tome" id="0" comment="" altitude="1110.0">
+      <Location longitude="-3.594722" latitude="41.204167"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="50000.0"/>
   </Point>
