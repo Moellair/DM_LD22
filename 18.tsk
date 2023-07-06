@@ -1,13 +1,13 @@
-<Task type="AAT" task_scored="0" aat_min_time="180" start_max_speed="300" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="AAT" task_scored="0" aat_min_time="120" start_max_speed="300" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="229_Fuentetoba" id="0" comment="" altitude="1092.0">
-      <Location longitude="-2.560278" latitude="41.776111"/>
+    <Waypoint name="054_ZA Pedrajas" id="0" comment="" altitude="1059.0">
+      <Location longitude="-2.580556" latitude="41.818889"/>
     </Waypoint>
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Area">
-    <Waypoint name="008_AD Fuentemilanos" id="0" comment="" altitude="1010.0">
-      <Location longitude="-4.238333" latitude="40.8875"/>
+    <Waypoint name="009_AD La Salceda" id="0" comment="" altitude="1150.0">
+      <Location longitude="-3.8825" latitude="41.065556"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="50000.0"/>
   </Point>
@@ -15,7 +15,7 @@
     <Waypoint name="028_FOR Covaleda" id="0" comment="" altitude="1190.0">
       <Location longitude="-2.949167" latitude="41.861944"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500.0"/>
+    <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="001_AD Garray" id="0" comment="" altitude="1036.0">
