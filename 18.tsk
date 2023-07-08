@@ -3,7 +3,7 @@
     <Waypoint name="176_Chaparros" id="0" comment="" altitude="1270.0">
       <Location longitude="-2.500833" latitude="41.878056"/>
     </Waypoint>
-    <ObservationZone type="Line" lenght="10000"/>
+    <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="312_Monasterio Sierra" id="0" comment="" altitude="929.0">
