@@ -1,21 +1,33 @@
-<Task type="AAT" task_scored="0" aat_min_time="180" start_max_speed="300" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="0" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="176_Chaparros" id="0" comment="" altitude="1270.0">
-      <Location longitude="-2.500833" latitude="41.878056"/>
+    <Waypoint name="419_Soria" id="0" comment="" altitude="1011.0">
+      <Location longitude="-2.464167" latitude="41.763056"/>
     </Waypoint>
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="036_ULM Arcones" id="0" comment="" altitude="1170.0">
-      <Location longitude="-3.733611" latitude="41.114722"/>
+  <Point type="Turn">
+    <Waypoint name="206_El Olmo" id="0" comment="" altitude="956.0">
+      <Location longitude="-3.662222" latitude="41.3025"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="50000.0"/>
+    <ObservationZone type="Cylinder" radius="500"/>
   </Point>
-  <Point type="Area">
+  <Point type="Turn">
+    <Waypoint name="422_Tajueco" id="0" comment="" altitude="933.0">
+      <Location longitude="-2.849167" latitude="41.536667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="431_Torlengua" id="0" comment="" altitude="866.0">
+      <Location longitude="-2.163056" latitude="41.453889"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500"/>
+  </Point>
+  <Point type="Turn">
     <Waypoint name="052_ZA Herreros" id="0" comment="" altitude="1085.0">
       <Location longitude="-2.731389" latitude="41.837778"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="3000.0"/>
+    <ObservationZone type="Cylinder" radius="500"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="001_AD Garray" id="0" comment="" altitude="1036.0">
