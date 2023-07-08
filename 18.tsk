@@ -23,7 +23,7 @@
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500"/>
   </Point>
-  Point type="Turn">
+  <Point type="Turn">
     <Waypoint name="116_Bliecos" id="0" comment="" altitude="1045.0">
       <Location longitude="-2.271667" latitude="41.528333"/>
     </Waypoint>
