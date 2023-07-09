@@ -9,7 +9,7 @@ ID,CALL,CN,TYPE,HANDICAP,NAME
 06D02616,,40,Discus a,104.5,Elena Fergnani
 06D02687,,99,Ls 4,102.2,Ulrike Teichmann
 06DDAFA5,,PG,LS 7,103.4,Carolin Rothhardt
-,,ET1,ASW 20,106.4,Kathy Fosha
+06D01F2A,,ET1,ASW 20,106.4,Kathy Fosha
 05405459,,LS4,LS 4,102.5,Mulder Alison
 06D00158,,IX,LS 4,102.2,Tereza Koubkova
 06DDEF8B,,LX,ASW 20,105.2,Alizée Petit
