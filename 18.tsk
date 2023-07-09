@@ -1,25 +1,13 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="0" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="176_Chaparros" id="0" comment="" altitude="1270.0">
-      <Location longitude="-2.500833" latitude="41.878056"/>
+    <Waypoint name="419_Soria" id="0" comment="" altitude="1064.0">
+      <Location longitude="-2.464167" latitude="41.763056"/>
     </Waypoint>
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="312_Monasterio Sierra" id="0" comment="" altitude="929.0">
-      <Location longitude="-3.193611" latitude="42.051389"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="211_Escalona del Prado" id="0" comment="" altitude="898.0">
-      <Location longitude="-4.123056" latitude="41.167222"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="116_Bliecos" id="0" comment="" altitude="1045.0">
-      <Location longitude="-2.271667" latitude="41.528333"/>
+    <Waypoint name="022_AD Villacastin" id="0" comment="" altitude="1120.0">
+      <Location longitude="-4.462778" latitude="40.783889"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500"/>
   </Point>
