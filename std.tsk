@@ -1,25 +1,13 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="0" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="054_ZA Pedrajas" id="0" comment="" altitude="1059.0">
-      <Location longitude="-2.580556" latitude="41.818889"/>
+    <Waypoint name="338_Ocenilla" id="0" comment="" altitude="1079.0">
+      <Location longitude="-2.621111" latitude="41.806389"/>
     </Waypoint>
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="312_Monasterio Sierra" id="0" comment="" altitude="1174.0">
-      <Location longitude="-3.193611" latitude="42.051389"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="227_Fuenterrebollo" id="0" comment="" altitude="929.0">
-      <Location longitude="-3.931111" latitude="41.296667"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="296_Matamala de Almazan" id="0" comment="" altitude="946.0">
-      <Location longitude="-2.640278" latitude="41.506389"/>
+    <Waypoint name="008_AD Fuentemilanos" id="0" comment="" altitude="1010.0">
+      <Location longitude="-4.238333" latitude="40.8875"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500"/>
   </Point>
