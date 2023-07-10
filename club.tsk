@@ -1,21 +1,21 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="0" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="AAT" task_scored="0" aat_min_time="180" start_max_speed="300" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="229_Fuentetoba" id="0" comment="" altitude="1092.0">
-      <Location longitude="-2.560278" latitude="41.776111"/>
+    <Waypoint name="390_Renieblas" id="0" comment="" altitude="1038.0">
+      <Location longitude="-2.372222" latitude="41.82"/>
     </Waypoint>
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="058_ZA Torrecaballeros" id="0" comment="" altitude="1160.0">
-      <Location longitude="-4.006667" latitude="41.001389"/>
+  <Point type="Area">
+    <Waypoint name="380_Prados Redondos" id="0" comment="" altitude="1156.0">
+      <Location longitude="-1.794444" latitude="40.784722"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
+    <ObservationZone type="Cylinder" radius="30000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="052_ZA Herreros" id="0" comment="" altitude="1085.0">
-      <Location longitude="-2.731389" latitude="41.837778"/>
+  <Point type="Area">
+    <Waypoint name="084_Andadera" id="0" comment="" altitude="1408.0">
+      <Location longitude="-2.884722" latitude="41.898889"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="001_AD Garray" id="0" comment="" altitude="1036.0">
