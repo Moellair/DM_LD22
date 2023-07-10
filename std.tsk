@@ -1,13 +1,13 @@
 <Task type="AAT" task_scored="0" aat_min_time="180" start_max_speed="300" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="338_Ocenilla" id="0" comment="" altitude="1079.0">
-      <Location longitude="-2.621111" latitude="41.806389"/>
+    <Waypoint name="419_Soria" id="0" comment="" altitude="1064.0">
+      <Location longitude="-2.464167" latitude="41.763056"/>
     </Waypoint>
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Area">
-    <Waypoint name="346_Orea" id="0" comment="" altitude="1538.0">
-      <Location longitude="-1.806667" latitude="40.501111"/>
+    <Waypoint name="441_Tragacete" id="0" comment="" altitude="1279.0">
+      <Location longitude="-1.85" latitude="40.351111"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="30000.0"/>
   </Point>
