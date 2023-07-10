@@ -1,21 +1,21 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="0" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="AAT" task_scored="0" aat_min_time="180" start_max_speed="300" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
     <Waypoint name="419_Soria" id="0" comment="" altitude="1064.0">
       <Location longitude="-2.464167" latitude="41.763056"/>
     </Waypoint>
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="022_AD Villacastin" id="0" comment="" altitude="1120.0">
-      <Location longitude="-4.462778" latitude="40.783889"/>
+  <Point type="Area">
+    <Waypoint name="441_Tragacete" id="0" comment="" altitude="1279.0">
+      <Location longitude="-1.85" latitude="40.351111"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
+    <ObservationZone type="Cylinder" radius="30000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="028_FOR Covaleda" id="0" comment="" altitude="1190.0">
-      <Location longitude="-2.949167" latitude="41.861944"/>
+  <Point type="Area">
+    <Waypoint name="055_ZA Quintanar" id="0" comment="" altitude="1100.0">
+      <Location longitude="-3.035278" latitude="41.956944"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="001_AD Garray" id="0" comment="" altitude="1036.0">
