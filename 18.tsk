@@ -1,21 +1,27 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="0" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="AAT" task_scored="0" aat_min_time="180" start_max_speed="300" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
     <Waypoint name="054_ZA Pedrajas" id="0" comment="" altitude="1059.0">
       <Location longitude="-2.580556" latitude="41.818889"/>
     </Waypoint>
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="391_Revenga" id="0" comment="" altitude="1189.0">
-      <Location longitude="-4.096667" latitude="40.868333"/>
+  <Point type="Area">
+    <Waypoint name="036_ULM Arcones" id="0" comment="" altitude="1170.0">
+      <Location longitude="-3.733611" latitude="41.114722"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
+    <ObservationZone type="Cylinder" radius="35000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="028_FOR Covaleda" id="0" comment="" altitude="1190.0">
-      <Location longitude="-2.949167" latitude="41.861944"/>
+  <Point type="Area">
+    <Waypoint name="460_Villafruela" id="0" comment="" altitude="897.0">
+      <Location longitude="-3.911667" latitude="41.918056"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
+    <ObservationZone type="Cylinder" radius="30000.0"/>
+  </Point>
+  <Point type="Area">
+    <Waypoint name="052_ZA Herreros" id="0" comment="" altitude="1085.0">
+      <Location longitude="-2.731389" latitude="41.837778"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="001_AD Garray" id="0" comment="" altitude="1036.0">
