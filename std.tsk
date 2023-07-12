@@ -3,30 +3,30 @@
     <Waypoint name="054_ZA Pedrajas" id="0" comment="" altitude="1059.0">
       <Location longitude="-2.580556" latitude="41.818889"/>
     </Waypoint>
-    <ObservationZone type="Line" length="10000.0"/>
+    <ObservationZone type="Line" length="10000"/>
   </Point>
   <Point type="Area">
     <Waypoint name="165_Cebolla" id="0" comment="" altitude="2036.0">
       <Location longitude="-3.536667" latitude="41.161111"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="25000.0"/>
+    <ObservationZone type="Cylinder" radius="25000"/>
   </Point>
   <Point type="Area">
     <Waypoint name="148_Canillas" id="0" comment="" altitude="822.0">
       <Location longitude="-4.125556" latitude="41.755"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="25000.0"/>
+    <ObservationZone type="Cylinder" radius="25000"/>
   </Point>
   <Point type="Area">
     <Waypoint name="052_ZA Herreros" id="0" comment="" altitude="1085.0">
       <Location longitude="-2.731389" latitude="41.837778"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="3000.0"/>
+    <ObservationZone type="Cylinder" radius="3000"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="001_AD Garray" id="0" comment="" altitude="1036.0">
       <Location longitude="-2.476667" latitude="41.821389"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="4000.0"/>
+    <ObservationZone type="Cylinder" radius="4000"/>
   </Point>
 </Task>
