@@ -12,12 +12,6 @@
     <ObservationZone type="Cylinder" radius="500"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="203_El Burgo de Osma" id="0" comment="" altitude="902.0">
-      <Location longitude="-3.066667" latitude="41.587778"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
-  </Point>
-  <Point type="Turn">
     <Waypoint name="138_Caleruega" id="0" comment="" altitude="953.0">
       <Location longitude="-3.486944" latitude="41.825278"/>
     </Waypoint>
