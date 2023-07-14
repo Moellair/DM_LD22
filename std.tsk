@@ -13,7 +13,7 @@
   </Point>
   <Point type="Turn">
     <Waypoint name="312_Monasterio Sierra" id="0" comment="" altitude="1174.0">
-      <Location longitude="-3.193611" latitude=42.051389"/>
+      <Location longitude="-3.193611" latitude="42.051389"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500"/>
   </Point>
