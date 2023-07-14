@@ -1,25 +1,25 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="0" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="419_Soria" id="0" comment="" altitude="1064.0">
-      <Location longitude="-2.464167" latitude="41.763056"/>
+    <Waypoint name="282_Los Rabanos" id="0" comment="" altitude="1030.0">
+      <Location longitude="-2.475833" latitude="41.717222"/>
     </Waypoint>
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="045_ZA Calamocha" id="0" comment="" altitude="910.0">
-      <Location longitude="-1.292222" latitude="40.902222"/>
+    <Waypoint name="108_Beraton" id="0" comment="" altitude="1394.0">
+      <Location longitude="-1.811667" latitude="41.717222"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="203_El Burgo de Osma" id="0" comment="" altitude="902.0">
-      <Location longitude="-3.066667" latitude="41.587778"/>
+    <Waypoint name="312_Monasterio Sierra" id="0" comment="" altitude="1174.0">
+      <Location longitude="-3.193611" latitude=42.051389"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="185_Colgadizos" id="0" comment="" altitude="1775.0">
-      <Location longitude="-3.642778" latitude="41.120833"/>
+    <Waypoint name="170_Cerrogordo" id="0" comment="" altitude="1853.0">
+      <Location longitude="-3.398333" latitude="41.241944"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500"/>
   </Point>
