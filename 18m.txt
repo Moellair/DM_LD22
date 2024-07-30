@@ -1,4 +1,24 @@
 ID,CALL,CN,TYPE,NAME
+,,29,ASG29 E,Marianne Hagemann
+,,3L,ASG 29E,Alexander Swagemakers
+063E7DA9,,4S,Ventus2cxT,Mirja Klicks
+06DDAFE9,,AMY,Ls6-18,Marcel Kaspari
+,,AT,Ventus 3T,Tobias Meiler
+06D0050F,,CT,JS3,Klaus Kalmbach
+06003EB8,,DG,DG800B,Norbert Kühne
+063E7972,,EO,Ls 8,Jan Hertrich
+06D00CBA,,FM,JS3 RES,Felix Kries
+,,HB,JS3,Bernd Krimmer
 06DF0DB7,,J3,ASG29 Es,Anja Barfuss
 06D009DE,,LEO,ASG 29,Sandra Malzacher
-
+06DDF0FE,,LG,JS3,Tobias Breithaupt
+,,LM,ASG 29e,Jan-Hinnerk Scheel
+,,LY,ASG 29e,Jana Konitzer
+063E730A,,M,AS 33,Michael Streit
+,,PM,Ventus2 cXt,Justus Israel
+,,RM,DG 600,Reinhold Mallik
+063E7AC4,,RO,AS 33Es,Michael Petzold
+,,SN,LS8 st,Ines Egelhardt
+06DF175E,,TA2,ASG 29e,Ulf Carlsbach
+,,U,AS34 Me,Roswitha Ulrich
+,,VY,JS3 TJ,Andreas Kühl
