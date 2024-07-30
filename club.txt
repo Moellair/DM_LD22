@@ -1,13 +1,13 @@
 ID,CALL,CN,TYPE,HANDICAP,NAME
 06D02687,,99,Ls 4,102.2,Ulrike Teichmann
-,,AW,Libelle,98.8,Leonie Benkens
+06D00A26,,AW,Libelle,98.8,Leonie Benkens
 06DF23DF,,L,B8 100,103.39,Olena Yakymchuk
-,,CH,Ls 1-f,101.4,Christina Keil
+06DDE436,,CH,Ls 1-f,101.4,Christina Keil
 06DD82B6,,E2,Discus CS,105.3,Sabine Macht
 06DD82D3,,E4,Ls 4,101.9,Esther Birngruber
 06DF1886,,FOX,LS7 WL,103.4,Daniela Wilden
 ,,NA,LS 4,101.8,Nicole Hanesch
 06DD8E5B,,OH,LS 4a,102.9,Lilian Fröhlich
-,,PE,Ls 4,102.5,Karolina Briefs
+06DDA71F,,PE,Ls 4,102.5,Karolina Briefs
 06DDAFA5,,PG,LS 7,103.4,Carolin Rothhardt
-,,SM,Discus bt,106.5,Selina Mihalyi
+06D02CC5,,SM,Discus bt,106.5,Selina Mihalyi
