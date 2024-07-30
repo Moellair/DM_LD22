@@ -1,17 +1,5 @@
 ID,CALL,CN,TYPE,NAME
 06D004CA,,71,Ls 8e Neo,Ilka Elster-Back
-06D00162,,FX,LS 8b,Dana Novakova
-06D00102,,JB,LS 8,Barbora Moravcova
 06DF08AA,,3S,LS 8,Cornelia Schaich
-06DDEE69,,I,Discus2a,Joanna Biedermann
-05192400,,IT,Discus2a, Francesca Roberts
 053EE482,,VZ,LS 8,Karen Wilken
 06DF13DC,,HZ,Discsu2a,Sabrina Vogt
-06D00160,,W8,LS 8,Jana Treslova
-05395EBB,,ET,Discus 2a,Anais Gaubert
-06D0016C,,L2,Discus 2a,Lucia Esteban Loring
-0538B61B,,AX,Discus 2a,Marilyne Abadie-Bérard
-053EEE08,,HT,LS 8,Lizzy van Zomeren
-06D00DC4,,JPA,Discus 2a,Aude Untersee
-054B517F,,JG,LS 8,Barbara Kuttel
-054B4F4E,,EB,Discus 2cFES,Delia Flury
