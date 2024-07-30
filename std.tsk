@@ -1,44 +1,26 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="0" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
-  <Point type="Start">
-    <Waypoint name="229_Fuentetoba" id="0" comment="" altitude="1092.0">
-      <Location longitude="-2.560278" latitude="41.776111"/>
-    </Waypoint>
-    <ObservationZone type="Line" length="10000.0"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="337_Noviercas" id="0" comment="" altitude="1096.0">
-      <Location longitude="-2.035" latitude="41.711667"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="312_Monasterio Sierra" id="0" comment="" altitude="1174.0">
-      <Location longitude="-3.193611" latitude="42.051389"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="381_Presa de Linares" id="0" comment="" altitude="915.0">
-      <Location longitude="-3.555833" latitude="41.5275"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="203_El Burgo de Osma" id="0" comment="" altitude="902.0">
-      <Location longitude="-3.066667" latitude="41.587778"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="028_FOR Covaleda" id="0" comment="" altitude="1190.0">
-      <Location longitude="-2.949167" latitude="41.861944"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
-  </Point>
-  <Point type="Finish">
-    <Waypoint name="001_AD Garray" id="0" comment="" altitude="1036.0">
-      <Location longitude="-2.476667" latitude="41.821389"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="4000.0"/>
-  </Point>
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="450" start_max_height_ref="AGL" start_max_height="1400" start_max_speed="170" start_score_exit="1" start_requires_arm="0" aat_min_time="10800" type="RT">
+	<Point type="Start">
+		<Waypoint altitude="175" comment="Abflugpunkt" id="1" name="001 AP Edenkoben">
+			<Location latitude="49.2839" longitude="8.12638"/>
+		</Waypoint>
+		<ObservationZone length="20000" type="Line"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="200" comment="BABAbfahrt" id="188" name="188 Weinsberg">
+			<Location latitude="49.135" longitude="9.30555"/>
+		</Waypoint>
+		<ObservationZone type="Keyhole"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="475" comment="Flugplatz" id="155" name="155 Rothenberg">
+			<Location latitude="49.4778" longitude="8.93333"/>
+		</Waypoint>
+		<ObservationZone type="Keyhole"/>
+	</Point>
+	<Point type="Finish">
+		<Waypoint altitude="118" comment="Flugplatz Bahnmitte" id="105" name="105 Lachen-Speyerdorf">
+			<Location latitude="49.3303" longitude="8.21167"/>
+		</Waypoint>
+		<ObservationZone radius="5000" type="Cylinder"/>
+	</Point>
 </Task>
