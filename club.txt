@@ -1,20 +1,5 @@
 ID,CALL,CN,TYPE,HANDICAP,NAME
-,,TC,GD300 WL,101.3,Valéria Caselato
-06D01C39,,CX,ASW 20,105.2,Petra Piskata
-06DF2457,,OLE,Std. Cirrus,99.9,Sylvia Grandstaff
-06D00CE4,,6L,LS 4,102.2,Michaela Krizova
-06DDD907,,AL,ASW 20,104.9,Paula Drazul
-06D0103D,,EEJ,ASW 20L,105.5,Carol Marshall
-06D014D4,,CH,Ls 1-f neo,101.3,Claudia Hill
-06D02616,,40,Discus a,104.5,Elena Fergnani
 06D02687,,99,Ls 4,102.2,Ulrike Teichmann
 06DDAFA5,,PG,LS 7,103.4,Carolin Rothhardt
-06D01F2A,,ET1,ASW 20,106.4,Kathy Fosha
-05405459,,LS4,LS 4,102.5,Mulder Alison
-06D00158,,IX,LS 4,102.2,Tereza Koubkova
-06DDEF8B,,LX,ASW 20,105.2,Alizée Petit
-06D01971,,AG,LS 7,102.8,Aude Grangeray
-06D012D5,,HG,LS 7,103.8,Louise Rodriguez
 06DF1886,,FOX,LS7 WL,103.4,Daniela Wilden
 06DDA681,,L,DG 100,99.4,Olena Yakymchuk
-06DD9BE5,,SH,Ls 1-f,100.9,Christina Solberg Hansen
