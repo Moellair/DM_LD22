@@ -1,5 +1,7 @@
 ID,CALL,CN,TYPE,NAME
-06D004CA,,71,Ls 8e Neo,Ilka Elster-Back
+063EEC48,,1D,LS 8,Lisa Scheller
 06DF08AA,,3S,LS 8,Cornelia Schaich
+06D004CA,,71,Ls 8e Neo,Ilka Elster-Back
+06DF13DC,,HZ,Discus 2a,Sabrina Vogt
+06DDB18,,V7,Discus 2a,Christine Grote
 053EE482,,VZ,LS 8,Karen Wilken
-06DF13DC,,HZ,Discus2a,Sabrina Vogt
