@@ -1,27 +1,27 @@
 <Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="MSL" finish_min_height="450" start_max_height_ref="MSL" start_max_height="1100" start_max_speed="47.2222" start_score_exit="1" start_requires_arm="1" aat_min_time="7200" type="AAT">
 	<Point type="Start">
-		<Waypoint altitude="98" comment="Abflugpunkt" id="5" name="005 AP Germersheim">
-			<Location latitude="49.2503" longitude="8.36638"/>
+		<Waypoint altitude="107" comment="Abflugpunkt" id="9" name="009 AP JVA">
+			<Location latitude="49.3603" longitude="8.39445"/>
 		</Waypoint>
 		<ObservationZone length="20000" type="Line"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="257" comment="Bhf" id="145" name="145 Osterburken">
-			<Location latitude="49.43" longitude="9.42362"/>
+		<Waypoint altitude="346" comment="Turn Point" id="37" name="037 Buchen">
+			<Location latitude="49.5247" longitude="9.32833"/>
 		</Waypoint>
-		<ObservationZone radius="20000" type="Cylinder"/>
+		<ObservationZone radius="25000" type="Cylinder"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="99" comment="" id="180" name="180 Viernheimer Wald">
-			<Location latitude="49.6045" longitude="8.53917"/>
+		<Waypoint altitude="91" comment="Flugplatz" id="197" name="197 Worms">
+			<Location latitude="49.6064" longitude="8.36695"/>
 		</Waypoint>
-		<ObservationZone radius="15000" type="Cylinder"/>
+		<ObservationZone radius="10000" type="Cylinder"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="158" comment="Flugplatz" id="168" name="168 Sinsheim">
-			<Location latitude="49.2472" longitude="8.89362"/>
+		<Waypoint altitude="106" comment="" id="193" name="193 Wiesental">
+			<Location latitude="49.2231" longitude="8.51972"/>
 		</Waypoint>
-		<ObservationZone radius="15000" type="Cylinder"/>
+		<ObservationZone radius="10000" type="Cylinder"/>
 	</Point>
 	<Point type="Finish">
 		<Waypoint altitude="118" comment="Flugplatz Bahnmitte" id="105" name="105 Lachen-Speyerdorf">
