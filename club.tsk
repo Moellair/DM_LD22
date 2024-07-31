@@ -27,6 +27,6 @@
 		<Waypoint altitude="118" comment="Flugplatz Bahnmitte" id="105" name="105 Lachen-Speyerdorf">
 			<Location latitude="49.3303" longitude="8.21167"/>
 		</Waypoint>
-		<ObservationZone radius="1000" type="Cylinder"/>
+		<ObservationZone radius="5000" type="Cylinder"/>
 	</Point>
 </Task>
