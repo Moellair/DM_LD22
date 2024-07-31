@@ -1,38 +1,32 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="0" start_max_height="0" start_max_height_ref="MSL" finish_min_height="1300" finish_min_height_ref="MSL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
-  <Point type="Start">
-    <Waypoint name="282_Los Rabanos" id="0" comment="" altitude="1030.0">
-      <Location longitude="-2.475833" latitude="41.717222"/>
-    </Waypoint>
-    <ObservationZone type="Line" length="10000.0"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="108_Beraton" id="0" comment="" altitude="1394.0">
-      <Location longitude="-1.811667" latitude="41.717222"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="312_Monasterio Sierra" id="0" comment="" altitude="1174.0">
-      <Location longitude="-3.193611" latitude="42.051389"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="170_Cerrogordo" id="0" comment="" altitude="1853.0">
-      <Location longitude="-3.398333" latitude="41.241944"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="028_FOR Covaleda" id="0" comment="" altitude="1190.0">
-      <Location longitude="-2.949167" latitude="41.861944"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500"/>
-  </Point>
-  <Point type="Finish">
-    <Waypoint name="001_AD Garray" id="0" comment="" altitude="1036.0">
-      <Location longitude="-2.476667" latitude="41.821389"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="4000.0"/>
-  </Point>
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="MSL" finish_min_height="450" start_max_height_ref="MSL" start_max_height="1100" start_max_speed="47.2222" start_score_exit="1" start_requires_arm="1" aat_min_time="7200" type="AAT">
+	<Point type="Start">
+		<Waypoint altitude="98" comment="Abflugpunkt" id="5" name="005 AP Germersheim">
+			<Location latitude="49.2503" longitude="8.36638"/>
+		</Waypoint>
+		<ObservationZone length="20000" type="Line"/>
+	</Point>
+	<Point type="Area">
+		<Waypoint altitude="257" comment="Bhf" id="145" name="145 Osterburken">
+			<Location latitude="49.43" longitude="9.42362"/>
+		</Waypoint>
+		<ObservationZone radius="20000" type="Cylinder"/>
+	</Point>
+	<Point type="Area">
+		<Waypoint altitude="99" comment="" id="180" name="180 Viernheimer Wald">
+			<Location latitude="49.6045" longitude="8.53917"/>
+		</Waypoint>
+		<ObservationZone radius="15000" type="Cylinder"/>
+	</Point>
+	<Point type="Area">
+		<Waypoint altitude="158" comment="Flugplatz" id="168" name="168 Sinsheim">
+			<Location latitude="49.2472" longitude="8.89362"/>
+		</Waypoint>
+		<ObservationZone radius="15000" type="Cylinder"/>
+	</Point>
+	<Point type="Finish">
+		<Waypoint altitude="118" comment="Flugplatz Bahnmitte" id="105" name="105 Lachen-Speyerdorf">
+			<Location latitude="49.3303" longitude="8.21167"/>
+		</Waypoint>
+		<ObservationZone radius="5000" type="Cylinder"/>
+	</Point>
 </Task>
