@@ -14,4 +14,4 @@ ID,CALL,CN,TYPE,HANDICAP,NAME
 06DDA71F,,PE,LS 4,102.5,Karolina Briefs
 06DDAFA5,,PG,LS 7,103.4,Carolin Rothhardt
 06D02CC5,,SM,Discus bt,107.3,Selina Mihalyi
-,,WJ,LS 4,102.3,Elena Mascus
+06DD8357,,WJ,LS 4,102.3,Elena Mascus
