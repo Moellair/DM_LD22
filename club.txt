@@ -9,7 +9,7 @@ ID,CALL,CN,TYPE,HANDICAP,NAME
 06DD82B6,,E2,Discus CS,105.3,Sabine Macht
 06DD82D3,,E4,Ls 4,102.3,Esther Birngruber
 06DF1886,,FOX,LS7 WL,103.4,Daniela Wilden
-,,NA,LS 4,101.8,Nicole Hanesch
+06DDDC27,,NA,LS 4,101.8,Nicole Hanesch
 06DD8E5B,,OH,LS 4a,102.9,Lilian Fröhlich
 06DDA71F,,PE,LS 4,102.5,Karolina Briefs
 06DDAFA5,,PG,LS 7,103.4,Carolin Rothhardt
