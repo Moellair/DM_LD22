@@ -17,7 +17,7 @@ ID,CALL,CN,TYPE,NAME
 053E730A,,M,AS 33,Michael Streit
 06DF0B02,,PM,Ventus2 cXt,Justus Israel
 063EF8B1,,RM,DG 600,Reinhold Mallik
-063E7AC4,,RO,AS 33Es,Michael Petzold
+053E7AC4,,RO,AS 33Es,Michael Petzold
 053ECE50,,SN,LS8 st,Ines Egelhardt
 06DF0387,,TA2,ASG 29e,Ulf Carlsbach
 053E7E72,,U,AS34 Me,Roswitha Ulrich
