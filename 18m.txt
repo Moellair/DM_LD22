@@ -14,7 +14,7 @@ ID,CALL,CN,TYPE,NAME
 06DDF0FE,,LG,JS3,Tobias Breithaupt
 06DF2301,,LM,ASG 29e,Jan-Hinnerk Scheel
 06DF0FD5,,LY,ASG 29e,Jana Konitzer
-063E730A,,M,AS 33,Michael Streit
+053E730A,,M,AS 33,Michael Streit
 06DF0B02,,PM,Ventus2 cXt,Justus Israel
 063EF8B1,,RM,DG 600,Reinhold Mallik
 063E7AC4,,RO,AS 33Es,Michael Petzold
