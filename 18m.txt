@@ -8,7 +8,7 @@ ID,CALL,CN,TYPE,NAME
 053E7F51,,DG,DG800B,Norbert Kühne
 063E7972,,EO,Ls 8,Jan Hertrich
 06D00CBA,,FM,JS3 RES,Felix Kries
-063EDC07,,HB,JS3,Bernd Krimmer
+53EDC07,,HB,JS3,Bernd Krimmer
 06DF0DB7,,J3,ASG29 Es,Anja Barfuss
 06DDEB52,,LEO,ASG 29,Sandra Malzacher
 06DDF0FE,,LG,JS3,Tobias Breithaupt
