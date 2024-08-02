@@ -10,7 +10,7 @@ ID,CALL,CN,TYPE,NAME
 06D00CBA,,FM,JS3 RES,Felix Kries
 063EDC07,,HB,JS3,Bernd Krimmer
 06DF0DB7,,J3,ASG29 Es,Anja Barfuss
-06D009DE,,LEO,ASG 29,Sandra Malzacher
+06DDEB52,,LEO,ASG 29,Sandra Malzacher
 06DDF0FE,,LG,JS3,Tobias Breithaupt
 06DF2301,,LM,ASG 29e,Jan-Hinnerk Scheel
 06DF0FD5,,LY,ASG 29e,Jana Konitzer
