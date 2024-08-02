@@ -3,7 +3,7 @@ ID,CALL,CN,TYPE,NAME
 053ED538,,3L,ASG 29E,Alexander Swagemakers
 063E7DA9,,4S,Ventus2cxT,Mirja Klicks
 06DDAFE9,,AMY,Ls6-18,Marcel Kaspari
-063E766B,,AT,Ventus 3T,Tobias Meiler
+053E766B,,AT,Ventus 3T,Tobias Meiler
 06D0050F,,CT,JS3,Klaus Kalmbach
 06003EB8,,DG,DG800B,Norbert Kühne
 063E7972,,EO,Ls 8,Jan Hertrich
