@@ -5,7 +5,7 @@ ID,CALL,CN,TYPE,NAME
 06DDAFE9,,AMY,Ls6-18,Marcel Kaspari
 053E766B,,AT,Ventus 3T,Tobias Meiler
 06D0050F,,CT,JS3,Klaus Kalmbach
-06003EB8,,DG,DG800B,Norbert Kühne
+053E7F51,,DG,DG800B,Norbert Kühne
 063E7972,,EO,Ls 8,Jan Hertrich
 06D00CBA,,FM,JS3 RES,Felix Kries
 063EDC07,,HB,JS3,Bernd Krimmer
