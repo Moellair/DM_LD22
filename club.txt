@@ -1,7 +1,7 @@
 ID,CALL,CN,TYPE,HANDICAP,NAME
 ,,22,Ls 4,102.5,Sabine Theis
 06D02687,,99,Ls 4,102.2,Ulrike Teichmann
-063EEE60,,1X,Discus B,103.9,Karin Lindgren
+053EEE60,,1X,Discus B,103.9,Karin Lindgren
 06D00A26,,AW,Libelle,98.8,Leonie Benkens
 06DF23DF,,B8,Discus B,103.9,Olena Yakymchuk
 ,,BV,LS4,101.9,Lena Kittler
