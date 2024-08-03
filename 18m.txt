@@ -19,6 +19,7 @@ ID,CALL,CN,TYPE,NAME
 063EF8B1,,RM,DG 600,Reinhold Mallik
 053E7AC4,,RO,AS 33Es,Michael Petzold
 053ECE50,,SN,LS8 st,Ines Egelhardt
+06DDF16B,,T,JS3 TJ,Georg Theisinger
 06DF0387,,TA2,ASG 29e,Ulf Carlsbach
 053E7E72,,U,AS34 Me,Roswitha Ulrich
 06D0048E,,VY,JS3 TJ,Andreas Kühl
