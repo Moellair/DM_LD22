@@ -6,8 +6,8 @@
 		<ObservationZone length="20000" type="Line"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="160" comment="Turn Point" id="124" name="124 Moerlenbach">
-			<Location latitude="49.5992" longitude="8.7325"/>
+		<Waypoint altitude="688" comment="TV" id="47" name="047 Donnersberg">
+			<Location latitude="49.6245" longitude="7.92362"/>
 		</Waypoint>
 		<ObservationZone radius="15000" type="Cylinder"/>
 	</Point>
@@ -15,24 +15,18 @@
 		<Waypoint altitude="115" comment="BABAbfahrt" id="36" name="036 Bruchsal">
 			<Location latitude="49.14" longitude="8.555"/>
 		</Waypoint>
-		<ObservationZone radius="18000" type="Cylinder"/>
-	</Point>
-	<Point type="Area">
-		<Waypoint altitude="170" comment="BABAbfahrt" id="65" name="065 Gruenstadt">
-			<Location latitude="49.552" longitude="8.18695"/>
-		</Waypoint>
 		<ObservationZone radius="15000" type="Cylinder"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="211" comment="" id="170" name="170 Spechbach">
-			<Location latitude="49.352" longitude="8.8825"/>
+		<Waypoint altitude="91" comment="Flugplatz" id="197" name="197 Worms">
+			<Location latitude="49.6064" longitude="8.36695"/>
 		</Waypoint>
-		<ObservationZone radius="15000" type="Cylinder"/>
+		<ObservationZone radius="14000" type="Cylinder"/>
 	</Point>
 	<Point type="Finish">
 		<Waypoint altitude="118" comment="Flugplatz Bahnmitte" id="105" name="105 Lachen-Speyerdorf">
 			<Location latitude="49.3303" longitude="8.21167"/>
 		</Waypoint>
-		<ObservationZone radius="5000" type="Cylinder"/>
+		<ObservationZone radius="1000" type="Cylinder"/>
 	</Point>
 </Task>
