@@ -1,33 +1,21 @@
-<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="450" start_max_height_ref="AGL" start_max_height="1100" start_max_speed="47.2222" start_score_exit="1" start_requires_arm="1" aat_min_time="7200" type="AAT">
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="10800" type="RT">
 	<Point type="Start">
-		<Waypoint altitude="107" comment="Abflugpunkt" id="9" name="009 AP JVA">
-			<Location latitude="49.3603" longitude="8.39445"/>
+		<Waypoint altitude="175" comment="Abflugpunkt" id="1" name="001 AP Edenkoben">
+			<Location latitude="49.2839" longitude="8.12638"/>
 		</Waypoint>
 		<ObservationZone length="20000" type="Line"/>
 	</Point>
-	<Point type="Area">
-		<Waypoint altitude="175" comment="Turn Point" id="35" name="035 Bretten">
-			<Location latitude="49.0378" longitude="8.69362"/>
+	<Point type="Turn">
+		<Waypoint altitude="315" comment="" id="40" name="040 Carlsberg">
+			<Location latitude="49.5081" longitude="8.04138"/>
 		</Waypoint>
 		<ObservationZone radius="15000" type="Cylinder"/>
 	</Point>
-	<Point type="Area">
-		<Waypoint altitude="160" comment="Turn Point" id="124" name="124 Moerlenbach">
-			<Location latitude="49.5992" longitude="8.7325"/>
+	<Point type="Turn">
+		<Waypoint altitude="200" comment="BABAbfahrt" id="188" name="188 Weinsberg">
+			<Location latitude="49.135" longitude="9.30555"/>
 		</Waypoint>
-		<ObservationZone radius="15000" type="Cylinder"/>
-	</Point>
-	<Point type="Area">
-		<Waypoint altitude="160" comment="Flugplatz" id="106" name="106 LandauEbenberg">
-			<Location latitude="49.1764" longitude="8.13612"/>
-		</Waypoint>
-		<ObservationZone radius="7000" type="Cylinder"/>
-	</Point>
-	<Point type="Area">
-		<Waypoint altitude="170" comment="BABAbfahrt" id="65" name="065 Gruenstadt">
-			<Location latitude="49.552" longitude="8.18695"/>
-		</Waypoint>
-		<ObservationZone radius="12000" type="Cylinder"/>
+		<ObservationZone radius="20000" type="Cylinder"/>
 	</Point>
 	<Point type="Finish">
 		<Waypoint altitude="118" comment="Flugplatz Bahnmitte" id="105" name="105 Lachen-Speyerdorf">
