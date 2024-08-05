@@ -1,7 +1,7 @@
-<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="450" start_max_height_ref="AGL" start_max_height="1100" start_max_speed="47.2222" start_score_exit="1" start_requires_arm="1" aat_min_time="7200" type="AAT">
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="450" start_max_height_ref="AGL" start_max_height="1100" start_max_speed="47.2222" start_score_exit="1" start_requires_arm="1" aat_min_time="10800" type="AAT">
 	<Point type="Start">
-		<Waypoint altitude="112" comment="Abflugpunkt" id="3" name="003 AP Freefall Tower">
-			<Location latitude="49.3183" longitude="8.29833"/>
+		<Waypoint altitude="120" comment="Abflugpunkt" id="10" name="010 AP Musenhof">
+			<Location latitude="49.4081" longitude="8.1875"/>
 		</Waypoint>
 		<ObservationZone length="20000" type="Line"/>
 	</Point>
@@ -12,21 +12,21 @@
 		<ObservationZone radius="15000" type="Cylinder"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="115" comment="BABAbfahrt" id="36" name="036 Bruchsal">
-			<Location latitude="49.14" longitude="8.555"/>
+		<Waypoint altitude="504" comment="Flugplatz" id="127" name="127 Mosbach-Lohrbach">
+			<Location latitude="49.3989" longitude="9.12388"/>
 		</Waypoint>
-		<ObservationZone radius="15000" type="Cylinder"/>
+		<ObservationZone radius="30000" type="Cylinder"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="91" comment="Flugplatz" id="197" name="197 Worms">
-			<Location latitude="49.6064" longitude="8.36695"/>
+		<Waypoint altitude="442" comment="" id="83" name="083 Hofstetten">
+			<Location latitude="49.2831" longitude="7.86388"/>
 		</Waypoint>
-		<ObservationZone radius="14000" type="Cylinder"/>
+		<ObservationZone radius="18000" type="Cylinder"/>
 	</Point>
 	<Point type="Finish">
 		<Waypoint altitude="118" comment="Flugplatz Bahnmitte" id="105" name="105 Lachen-Speyerdorf">
 			<Location latitude="49.3303" longitude="8.21167"/>
 		</Waypoint>
-		<ObservationZone radius="5000" type="Cylinder"/>
+		<ObservationZone radius="1000" type="Cylinder"/>
 	</Point>
 </Task>
