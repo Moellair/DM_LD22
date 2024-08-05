@@ -1,21 +1,27 @@
-<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="10800" type="RT">
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="450" start_max_height_ref="AGL" start_max_height="1100" start_max_speed="47.2222" start_score_exit="1" start_requires_arm="1" aat_min_time="10800" type="AAT">
 	<Point type="Start">
-		<Waypoint altitude="175" comment="Abflugpunkt" id="1" name="001 AP Edenkoben">
-			<Location latitude="49.2839" longitude="8.12638"/>
+		<Waypoint altitude="486" comment="Abflugpunkt" id="0" name="011 AP Weinbiet">
+			<Location latitude="49.376111" longitude="8.121111"/>
 		</Waypoint>
 		<ObservationZone length="20000" type="Line"/>
 	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="315" comment="" id="40" name="040 Carlsberg">
-			<Location latitude="49.5081" longitude="8.04138"/>
+	<Point type="Area">
+		<Waypoint altitude="688" comment="" id="0" name="047 Donnersberg">
+			<Location latitude="49.624444" longitude="7.923611"/>
 		</Waypoint>
 		<ObservationZone radius="15000" type="Cylinder"/>
 	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="200" comment="BABAbfahrt" id="188" name="188 Weinsberg">
-			<Location latitude="49.135" longitude="9.30555"/>
+	<Point type="Area">
+		<Waypoint altitude="339" comment="" id="0" name="123 Moeckmuehl">
+			<Location latitude="49.343889" longitude="9.4025"/>
 		</Waypoint>
-		<ObservationZone radius="20000" type="Cylinder"/>
+		<ObservationZone radius="30000" type="Cylinder"/>
+	</Point>
+	<Point type="Area">
+		<Waypoint altitude="442" comment="" id="" name="083 Hofstetten">
+			<Location latitude="49.283056" longitude="7.863889"/>
+		</Waypoint>
+		<ObservationZone radius="18000" type="Cylinder"/>
 	</Point>
 	<Point type="Finish">
 		<Waypoint altitude="118" comment="Flugplatz Bahnmitte" id="105" name="105 Lachen-Speyerdorf">
