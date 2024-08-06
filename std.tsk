@@ -1,32 +1,32 @@
-<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="450" start_max_height_ref="AGL" start_max_height="1100" start_max_speed="47.2222" start_score_exit="1" start_requires_arm="1" aat_min_time="10800" type="AAT">
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="450" start_max_height_ref="AGL" start_max_height="1300" start_max_speed="47.2222" start_score_exit="1" start_requires_arm="0" aat_min_time="10800" type="RT">
 	<Point type="Start">
-		<Waypoint altitude="486" comment="Abflugpunkt" id="0" name="011 AP Weinbiet">
-			<Location latitude="49.376111" longitude="8.121111"/>
+		<Waypoint altitude="112" comment="Abflugpunkt" id="3" name="003 AP Freefall Tower">
+			<Location latitude="49.3183" longitude="8.29833"/>
 		</Waypoint>
 		<ObservationZone length="20000" type="Line"/>
 	</Point>
-	<Point type="Area">
-		<Waypoint altitude="688" comment="" id="0" name="047 Donnersberg">
-			<Location latitude="49.624444" longitude="7.923611"/>
+	<Point type="Turn">
+		<Waypoint altitude="282" comment="Flugplatz" id="175" name="175 Tauberbischofsheim">
+			<Location latitude="49.6495" longitude="9.62888"/>
 		</Waypoint>
-		<ObservationZone radius="15000" type="Cylinder"/>
+		<ObservationZone type="Keyhole"/>
 	</Point>
-	<Point type="Area">
-		<Waypoint altitude="339" comment="" id="0" name="123 Moeckmuehl">
-			<Location latitude="49.343889" longitude="9.4025"/>
+	<Point type="Turn">
+		<Waypoint altitude="349" comment="Bruecke" id="102" name="102 Kupferzell">
+			<Location latitude="49.1997" longitude="9.68945"/>
 		</Waypoint>
-		<ObservationZone radius="30000" type="Cylinder"/>
+		<ObservationZone type="Keyhole"/>
 	</Point>
-	<Point type="Area">
-		<Waypoint altitude="442" comment="" id="" name="083 Hofstetten">
-			<Location latitude="49.283056" longitude="7.863889"/>
+	<Point type="Turn">
+		<Waypoint altitude="268" comment="Flugplatz" id="129" name="129 Muelben">
+			<Location latitude="49.4531" longitude="9.10555"/>
 		</Waypoint>
-		<ObservationZone radius="18000" type="Cylinder"/>
+		<ObservationZone type="Keyhole"/>
 	</Point>
 	<Point type="Finish">
 		<Waypoint altitude="118" comment="Flugplatz Bahnmitte" id="105" name="105 Lachen-Speyerdorf">
 			<Location latitude="49.3303" longitude="8.21167"/>
 		</Waypoint>
-		<ObservationZone radius="5000" type="Cylinder"/>
+		<ObservationZone radius="1000" type="Cylinder"/>
 	</Point>
 </Task>
