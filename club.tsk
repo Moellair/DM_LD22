@@ -1,32 +1,32 @@
-<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="450" start_max_height_ref="AGL" start_max_height="1100" start_max_speed="47.2222" start_score_exit="1" start_requires_arm="1" aat_min_time="10800" type="AAT">
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="450" start_max_height_ref="AGL" start_max_height="1300" start_max_speed="47.2222" start_score_exit="1" start_requires_arm="1" aat_min_time="10800" type="AAT">
 	<Point type="Start">
-		<Waypoint altitude="120" comment="Abflugpunkt" id="10" name="010 AP Musenhof">
-			<Location latitude="49.4081" longitude="8.1875"/>
+		<Waypoint altitude="112" comment="Abflugpunkt" id="3" name="003 AP Freefall Tower">
+			<Location latitude="49.3183" longitude="8.29833"/>
 		</Waypoint>
 		<ObservationZone length="20000" type="Line"/>
 	</Point>
 	<Point type="Area">
-		<Waypoint altitude="688" comment="TV" id="47" name="047 Donnersberg">
-			<Location latitude="49.6245" longitude="7.92362"/>
-		</Waypoint>
-		<ObservationZone radius="15000" type="Cylinder"/>
-	</Point>
-	<Point type="Area">
-		<Waypoint altitude="504" comment="Flugplatz" id="127" name="127 Mosbach-Lohrbach">
-			<Location latitude="49.3989" longitude="9.12388"/>
-		</Waypoint>
-		<ObservationZone radius="30000" type="Cylinder"/>
-	</Point>
-	<Point type="Area">
-		<Waypoint altitude="442" comment="" id="83" name="083 Hofstetten">
-			<Location latitude="49.2831" longitude="7.86388"/>
+		<Waypoint altitude="400" comment="Flugplatz" id="185" name="185 Wallduern">
+			<Location latitude="49.5817" longitude="9.40222"/>
 		</Waypoint>
 		<ObservationZone radius="18000" type="Cylinder"/>
+	</Point>
+	<Point type="Area">
+		<Waypoint altitude="237" comment="Bahnhof" id="142" name="142 Oehringen">
+			<Location latitude="49.2031" longitude="9.50388"/>
+		</Waypoint>
+		<ObservationZone radius="20000" type="Cylinder"/>
+	</Point>
+	<Point type="Area">
+		<Waypoint altitude="456" comment="" id="68" name="068 Hammelbach">
+			<Location latitude="49.6367" longitude="8.83278"/>
+		</Waypoint>
+		<ObservationZone radius="12000" type="Cylinder"/>
 	</Point>
 	<Point type="Finish">
 		<Waypoint altitude="118" comment="Flugplatz Bahnmitte" id="105" name="105 Lachen-Speyerdorf">
 			<Location latitude="49.3303" longitude="8.21167"/>
 		</Waypoint>
-		<ObservationZone radius="5000" type="Cylinder"/>
+		<ObservationZone radius="1000" type="Cylinder"/>
 	</Point>
 </Task>
