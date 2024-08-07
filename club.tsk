@@ -5,23 +5,29 @@
 		</Waypoint>
 		<ObservationZone length="20000" type="Line"/>
 	</Point>
-	<Point type="Area">
-		<Waypoint altitude="400" comment="Flugplatz" id="185" name="185 Wallduern">
-			<Location latitude="49.5817" longitude="9.40222"/>
+	<Point type="Turn">
+		<Waypoint altitude="400" comment="" id="0" name="096 Kircheheimbolanden">
+			<Location latitude="49.663056" longitude="8.018889"/>
 		</Waypoint>
-		<ObservationZone radius="18000" type="Cylinder"/>
+		<ObservationZone type="Keyhole"/>
 	</Point>
-	<Point type="Area">
-		<Waypoint altitude="237" comment="Bahnhof" id="142" name="142 Oehringen">
-			<Location latitude="49.2031" longitude="9.50388"/>
+	<Point type="Turn">
+		<Waypoint altitude="400" comment="" id="0" name="184 Waldgrehweiler">
+			<Location latitude="49.668333" longitude="7.741944"/>
 		</Waypoint>
-		<ObservationZone radius="20000" type="Cylinder"/>
+		<ObservationZone type="Keyhole"/>
 	</Point>
-	<Point type="Area">
-		<Waypoint altitude="456" comment="" id="68" name="068 Hammelbach">
-			<Location latitude="49.6367" longitude="8.83278"/>
+	<Point type="Turn">
+		<Waypoint altitude="400" comment="" id="0" name="065 Gruenstadt">
+			<Location latitude="49.551944" longitude="8.186944"/>
 		</Waypoint>
-		<ObservationZone radius="12000" type="Cylinder"/>
+		<ObservationZone type="Keyhole"/>
+	</Point>
+<Point type="Turn">
+		<Waypoint altitude="400" comment="" id="0" name="106 Landau Ebenberg">
+			<Location latitude="49.176389" longitude="8.136111"/>
+		</Waypoint>
+		<ObservationZone type="Keyhole"/>
 	</Point>
 	<Point type="Finish">
 		<Waypoint altitude="118" comment="Flugplatz Bahnmitte" id="105" name="105 Lachen-Speyerdorf">
