@@ -1,4 +1,4 @@
-<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="450" start_max_height_ref="AGL" start_max_height="1000" start_max_speed="47.2222" start_score_exit="1" start_requires_arm="1" aat_min_time="" type="RT">
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="450" start_max_height_ref="MSL" start_max_height="1000" start_max_speed="47.2222" start_score_exit="1" start_requires_arm="1" aat_min_time="" type="RT">
 	<Point type="Start">
 		<Waypoint altitude="112" comment="Abflugpunkt" id="3" name="003 AP Freefall Tower">
 			<Location latitude="49.3183" longitude="8.29833"/>
