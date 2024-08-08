@@ -1,29 +1,29 @@
-<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="450" start_max_height_ref="AGL" start_max_height="1500" start_max_speed="47.2222" start_score_exit="1" start_requires_arm="0" aat_min_time="10800" type="RT">
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="450" start_max_height_ref="MSL" start_max_height="1500" start_max_speed="47.2222" start_score_exit="1" start_requires_arm="1" aat_min_time="" type="RT">
 	<Point type="Start">
-		<Waypoint altitude="330" comment="Abflugpunkt" id="7" name="007 AP Hambacher Schloss">
-			<Location latitude="49.3247" longitude="8.11833"/>
+		<Waypoint altitude="112" comment="" id="3" name="011 AP weinbiet">
+			<Location latitude="49.376111" longitude="8.121111"/>
 		</Waypoint>
 		<ObservationZone length="20000" type="Line"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="688" comment="TV" id="47" name="047 Donnersberg">
-			<Location latitude="49.6245" longitude="7.92362"/>
+		<Waypoint altitude="400" comment="" id="0" name="047 Donnersberg">
+			<Location latitude="49.624444" longitude="7.923611"/>
 		</Waypoint>
 		<ObservationZone type="Keyhole"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="192" comment="" id="159" name="159 Saarstahl">
-			<Location latitude="49.357" longitude="6.74888"/>
+		<Waypoint altitude="400" comment="" id="0" name="148 Pflazklinikum Klingenmünster">
+			<Location latitude="49.148333" longitude="8.015278"/>
 		</Waypoint>
 		<ObservationZone type="Keyhole"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="166" comment="Turn Point" id="17" name="017 Amorbach">
-			<Location latitude="49.6461" longitude="9.22333"/>
+		<Waypoint altitude="400" comment="" id="0" name="017 Amorbach">
+			<Location latitude="49.646111" longitude="9.223333"/>
 		</Waypoint>
 		<ObservationZone type="Keyhole"/>
 	</Point>
-	<Point type="Turn">
+<Point type="Turn">
 		<Waypoint altitude="166" comment="Turn Point" id="197" name="197 Worms">
 			<Location latitude="49.606389" longitude="8.366944"/>
 		</Waypoint>
