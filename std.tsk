@@ -1,27 +1,33 @@
-<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="450" start_max_height_ref="AGL" start_max_height="1500" start_max_speed="47.2222" start_score_exit="1" start_requires_arm="0" aat_min_time="10800" type="RT">
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="450" start_max_height_ref="MSL" start_max_height="1300" start_max_speed="47.2222" start_score_exit="1" start_requires_arm="1" aat_min_time="7200" type="AAT">
 	<Point type="Start">
-		<Waypoint altitude="120" comment="Abflugpunkt" id="10" name="010 AP Musenhof">
-			<Location latitude="49.4081" longitude="8.1875"/>
+		<Waypoint altitude="112" comment="" id="0" name="008 AP Hassloch AA">
+			<Location latitude="49.382222" longitude="8.25"/>
 		</Waypoint>
 		<ObservationZone length="20000" type="Line"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="688" comment="TV" id="47" name="047 Donnersberg">
-			<Location latitude="49.6245" longitude="7.92362"/>
+		<Waypoint altitude="400" comment="" id="0" name="065 Gruenstadt">
+			<Location latitude="49.551944" longitude="8.186944"/>
 		</Waypoint>
-		<ObservationZone type="Keyhole"/>
+		<ObservationZone radius="10000" type="Cylinder"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="192" comment="" id="159" name="159 Saarstahl">
-			<Location latitude="49.357" longitude="6.74888"/>
+		<Waypoint altitude="400" comment="" id="0" name="072 Hauenstein">
+			<Location latitude="49.195" longitude="7.850278"/>
 		</Waypoint>
-		<ObservationZone type="Keyhole"/>
+		<ObservationZone radius="12000" type="Cylinder"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="348" comment="Flugplatz" id="122" name="122 Michelstadt">
-			<Location latitude="49.6781" longitude="8.97388"/>
+		<Waypoint altitude="400" comment="" id="0" name="068 Hammelbach">
+			<Location latitude="49.636667" longitude="8.832778"/>
 		</Waypoint>
-		<ObservationZone type="Keyhole"/>
+		<ObservationZone radius="15000" type="Cylinder"/>
+	</Point>
+<Point type="Turn">
+		<Waypoint altitude="166" comment="Turn Point" id="0" name="193 Wiesental">
+			<Location latitude="49.223056" longitude="8.519722"/>
+		</Waypoint>
+		<ObservationZone radius="10000" type="Cylinder"/>
 	</Point>
 	<Point type="Finish">
 		<Waypoint altitude="118" comment="Flugplatz Bahnmitte" id="105" name="105 Lachen-Speyerdorf">
